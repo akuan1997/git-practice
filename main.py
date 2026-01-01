@@ -17,6 +17,8 @@ def howhowhow():
     print('3453455')
     print('3453455')
 
+def happy():
+    print('happy')
 
 print(10/5)
 print('hahahaha')
