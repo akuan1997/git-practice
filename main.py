@@ -17,5 +17,10 @@ def howhowhow():
     print('3453455')
     print('3453455')
 
+
 print(10/5)
 print('hahahaha')
+
+a = 123
+b = 345
+print(a + b)
