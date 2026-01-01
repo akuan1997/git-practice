@@ -8,3 +8,5 @@ def sad():
 def middle():
     print('middle')
 
+def whywhy():
+    print('123123123123')
