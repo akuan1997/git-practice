@@ -10,3 +10,9 @@ def middle():
 
 def whywhy():
     print('123123123123')
+
+def howhowhow():
+    print('3453455')
+    print('3453455')
+    print('3453455')
+    print('3453455')
