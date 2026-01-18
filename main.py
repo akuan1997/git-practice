@@ -30,3 +30,6 @@ print(a + b)
 
 print('as;dkfja;slkdj;fasdf')
 
+print('a')
+
+print('b')
